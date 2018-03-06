@@ -1,3 +1,4 @@
 this was added from user2 in its-feature-2
 test
 added on feature-1
+this is added from user1 in its-feature-1
