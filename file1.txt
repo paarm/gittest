@@ -1,2 +1,3 @@
+this was added from user2 in its-feature-2
 test
 added on feature-1
